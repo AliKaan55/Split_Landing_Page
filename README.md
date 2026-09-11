@@ -20,4 +20,4 @@ Bu proje, kullanıcıya **Cat** ve **Dog** seçenekleri sunan bir split landing 
 ## Kurulum
 1. Bu projeyi bilgisayarına klonla:
    ```bash
-   git clone https://github.com/AliKaan55/Split-Landing-Page.git
+   git clone https://github.com/AliKaan55/Split_Landing_Page
